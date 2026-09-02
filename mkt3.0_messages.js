@@ -3,6 +3,8 @@ Mkt3L10n.adminFieldHtmlEncodeForm = {
   Explain: "Configurar o comportamento padrão de codificação HTML em tokens de e-mail para todos os campos",
   Remind: "Esta definição se aplica a todos os campos. Você também pode configurar esta definição para cada campo",
   Save: "SALVAR",
+  Save: "SALVAR",
+  Save: "SALVAR",
   Cancel: "Cancelar"
 };
 Mkt3L10n.adminDkimDomainDetailsForm = {
