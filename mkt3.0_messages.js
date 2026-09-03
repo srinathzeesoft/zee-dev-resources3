@@ -21,7 +21,7 @@ Mkt3L10n.adminAddDomainForm = {
   Add: "Adicionar",
   Example_Domain: "Exemplo: domínio.com",
   Example_Selector: "Exemplo: m1",
-  Selector: "Seletor",
+  Selector: "Seletor check check hcekd",
   Key_Size: "Tamanho da chave"
 };
 
