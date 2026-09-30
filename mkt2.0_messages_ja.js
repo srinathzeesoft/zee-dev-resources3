@@ -1,123 +1,121 @@
-{
-  "mkt2.0_messages.js.Mkt3L10n.ObjectSyncManager": "",
-  "mkt2.0_messages.js.Mkt3L10n.TreeFilterMenu": "フォーム",
-  "mkt2.0_messages.js.Mkt3L10n.Dynamics": "URL",
-  "mkt2.0_messages.js.Mkt3L10n.ListImport": "タブ区切り",
-  "mkt2.0_messages.js.Mkt3L10n.WebhookAdmin": "削除",
-  "mkt2.0_messages.js.Mkt3L10n.message": "<p>プログラムサマリのロード中にエラーが発生しました。</p><p>ブラウザを更新してください。</p>",
-  "mkt2.0_messages.js.Mkt3L10n.UsedByListField": "なし",
-  "mkt2.0_messages.js.Mkt3L10n.CheckedTreePanel": "{0} ({1}/{2})",
-  "mkt2.0_messages.js.Mkt3L10n.EmailEditor": "",
-  "mkt2.0_messages.js.Mkt3L10n.SAP": "デフォルトのリード企業",
-  "mkt2.0_messages.js.Mkt3L10n.FieldManagement": "",
-  "mkt2.0_messages.js.Mkt3L10n.MktTree20": "デフォルトのタイトル",
-  "mkt2.0_messages.js.Mkt3L10n.EmailPreview": "閉じる",
-  "mkt2.0_messages.js.Mkt3L10n.WebinarAdminMenu": "更新",
-  "mkt2.0_messages.js.Mkt3L10n.LocalAssetMenu": "新規ソーシャルボタン",
-  "mkt2.0_messages.js.Mkt3L10n.InviteParticipants": "このフィールドは必須です",
-  "mkt2.0_messages.js.Mkt3L10n.AnalyticsMenu": "アナライザ設定",
-  "mkt2.0_messages.js.Mkt3L10n.CustAdmin": "",
-  "mkt2.0_messages.js.Mkt3L10n.WebinarAdmin": "",
-  "mkt2.0_messages.js.Mkt3L10n.FormValidationRule": "更新",
-  "mkt2.0_messages.js.Mkt3L10n.MarketingEvent": "",
-  "mkt2.0_messages.js.Mkt3L10n.FacebookPublish": "タブ名を入力してください",
-  "mkt2.0_messages.js.Mkt3L10n.analyzers": "",
-  "mkt2.0_messages.js.Mkt3L10n.DescriptorAdmin": "タグの検索",
-  "mkt2.0_messages.js.Mkt3L10n.FieldManager": "",
-  "mkt2.0_messages.js.Mkt3L10n.FilterTreePanel": "一致なし",
-  "mkt2.0_messages.js.Mkt3L10n.AnalyticsReportSetup": "フィルターには承認済みモデルが必要です",
-  "mkt2.0_messages.js.Mkt3L10n.DataFormPanel": "",
-  "mkt2.0_messages.js.Mkt3L10n.MktPurlModals": "",
-  "mkt2.0_messages.js.Mkt3L10n.Crm": "フォーム入力完了",
-  "mkt2.0_messages.js.Mkt3L10n.WebhookAdminMenu": "カスタム ヘッダの設定",
-  "mkt2.0_messages.js.Mkt3L10n.Captcha": "未設定",
-  "mkt2.0_messages.js.Mkt3L10n.CachedTreePanel": "Salesforce",
-  "mkt2.0_messages.js.Mkt3L10n.JigsawAdmin": "ユーザ名",
-  "mkt2.0_messages.js.Mkt3L10n.PredictiveLeadScoreModelAdmin": "ロード中...",
-  "mkt2.0_messages.js.Mkt3L10n.BaseViewPort": "コミュニティ",
-  "mkt2.0_messages.js.Mkt3L10n.campaigns": "",
-  "mkt2.0_messages.js.Mkt3L10n.ModalForm": "キャンセル",
-  "mkt2.0_messages.js.Mkt3L10n.explorer": "管理...",
-  "mkt2.0_messages.js.Mkt3L10n.LocalAsset": "",
-  "mkt2.0_messages.js.Mkt3L10n.CustAdminMenu": "Sales Insight",
-  "mkt2.0_messages.js.Mkt3L10n.analytics": "",
-  "mkt2.0_messages.js.Mkt3L10n.idleTriggerCampaigns": "",
-  "mkt2.0_messages.js.Mkt3L10n.CampaignSchedule": "",
-  "mkt2.0_messages.js.Mkt3L10n.MarketingEventMenu": "新規イベント",
-  "mkt2.0_messages.js.Mkt3L10n.TreasureChest": "<i>開発者: {0}</i>",
-  "mkt2.0_messages.js.Mkt3L10n.ReportSettings": "終了日は開始日より後の日付でなければなりません",
-  "mkt2.0_messages.js.Mkt3L10n.canvas": "ロード中...",
-  "mkt2.0_messages.js.Mkt3L10n.DataMgr": "",
-  "mkt2.0_messages.js.Mkt3L10n.FieldManagementMenu": "マージしようとしているフィールドは、非表示フィールドです。 非表示フィールドをマージすることはできません。",
-  "mkt2.0_messages.js.Mkt3L10n.util": "<i>空</i>",
-  "mkt2.0_messages.js.Mkt3L10n.DeviceSwitch": "新規ページ テンプレート",
-  "mkt2.0_messages.js.Mkt3L10n.Preview": "",
-  "mkt2.0_messages.js.Mkt3L10n.MarketingProgramSettings": "",
-  "mkt2.0_messages.js.Mkt3L10n.EmailBlast": "<b>テスト ビュー:</b> {0}",
-  "mkt2.0_messages.js.Mkt3L10n.impExp": "",
-  "mkt2.0_messages.js.Mkt3L10n.LpEditorSocialShare": "",
-  "mkt2.0_messages.js.Mkt3L10n.LpTemplate": "承認済み",
-  "mkt2.0_messages.js.Mkt3L10n.ActivityFilters": "",
-  "mkt2.0_messages.js.Mkt3L10n.page": "",
-  "mkt2.0_messages.js.Mkt3L10n.MktPortal": "名前:",
-  "mkt2.0_messages.js.Mkt3L10n.AdvancedFlowWait": "",
-  "mkt2.0_messages.js.Mkt3L10n.RowEditor": "保存",
-  "mkt2.0_messages.js.Mkt3L10n.IsAnonymousCampaigns": "",
-  "mkt2.0_messages.js.Mkt3L10n.vtypes": "L[.L][.L][.L][...] L は文字で始まり、文字または数字で終わっており、63 文字を超えていません",
-  "mkt2.0_messages.js.Mkt3L10n.Rsm": "",
-  "mkt2.0_messages.js.Mkt3L10n.MultiFileUploader": "警告 - 最大サイズ {maxSize} です。 ファイル {fileName} は {fileSize} です",
-  "mkt2.0_messages.js.Mkt3L10n.LayoutCanvas": "保存しています...",
-  "mkt2.0_messages.js.Mkt3L10n.LpSettings": "",
-  "mkt2.0_messages.js.Mkt3L10n.nav": "",
-  "mkt2.0_messages.js.Mkt3L10n.ImageUtils": "",
-  "mkt2.0_messages.js.Mkt3L10n.DataMgrMenu": "フィールド オーガナイザの削除",
-  "mkt2.0_messages.js.Mkt3L10n.CustomTokens": "",
-  "mkt2.0_messages.js.Mkt3L10n.EmailDetails": "承認済み",
-  "mkt2.0_messages.js.Mkt3L10n.HomeMenu": "新規作成",
-  "mkt2.0_messages.js.Mkt3L10n.SysAdminMenu": "Rubiks 新規サブスクリプション",
-  "mkt2.0_messages.js.Mkt3L10n.CanvasCoverPage": "実行履歴",
-  "mkt2.0_messages.js.Mkt3L10n.UsedByModal": "使用者",
-  "mkt2.0_messages.js.Mkt3L10n.ProgramAnalyzerChart": "名前",
-  "mkt2.0_messages.js.Mkt3L10n.programs": "日時 {0}",
-  "mkt2.0_messages.js.Mkt3L10n.MktGrids": "計算しています...",
-  "mkt2.0_messages.js.Mkt3L10n.PredictiveLeadScoreModelAdminMenu": "新規モデル",
-  "mkt2.0_messages.js.Mkt3L10n.HasLinkedinSocialFill": "{0} 個のフォームをロードしています...",
-  "mkt2.0_messages.js.Mkt3L10n.Progressions": "{0} 進行状況をロードしています...",
-  "mkt2.0_messages.js.Mkt3L10n.LayoutDesigner": "自動保存: {0}",
-  "mkt2.0_messages.js.Mkt3L10n.RSModeler": "",
-  "mkt2.0_messages.js.Mkt3L10n.CampaignMonitor": "キャンペーンが見つかりません",
-  "mkt2.0_messages.js.Mkt3L10n.CampaignInspector": "{0} キャンペーン",
-  "mkt2.0_messages.js.Mkt3L10n.SparkHome": "{text}",
-  "mkt2.0_messages.js.Mkt3L10n.Format": "テスト グループ",
-  "mkt2.0_messages.js.Mkt3L10n.ViewDetailsModal": "クライアントシークレット",
-  "mkt2.0_messages.js.Mkt3L10n.RsmMenu": "承認",
-  "mkt2.0_messages.js.Mkt3L10n.ImprovedComboBox": "検索しています...",
-  "mkt2.0_messages.js.Mkt3L10n.CanvasHeader": "保存",
-  "mkt2.0_messages.js.Mkt3L10n.DescriptorAdminMenu": "非表示",
-  "mkt2.0_messages.js.Mkt3L10n.LpSettingsMenu": "新規ドメイン別名",
-  "mkt2.0_messages.js.Mkt3L10n.SocialShare": "適用",
-  "mkt2.0_messages.js.Mkt3L10n.DynamicContentAdmin": "",
-  "mkt2.0_messages.js.Mkt3L10n.MktSparkline": "drawRect は実装されていません",
-  "mkt2.0_messages.js.Mkt3L10n.ViewSlackDetailsModal": "",
-  "mkt2.0_messages.js.Mkt3L10n.session": "",
-  "mkt2.0_messages.js.Mkt3L10n.AsyncMenu": "ロード中...",
-  "mkt2.0_messages.js.Mkt3L10n.LandingPagePreview": "{0} ランディングページ プレビューア",
-  "mkt2.0_messages.js.Mkt3L10n.LeadAction": "数式フィールドのルールを定義する",
-  "mkt2.0_messages.js.Mkt3L10n.Field": "{0} は有効な日付ではありません - 日付は {1} のフォーマットでなければなりません",
-  "mkt2.0_messages.js.Mkt3L10n.AccountAnalyzerChart": "",
-  "mkt2.0_messages.js.Mkt3L10n.CampaignScheduleRun": "日時が無効です。",
-  "mkt2.0_messages.js.Mkt3L10n.ComboChooser": "すべて追加 >>",
-  "mkt2.0_messages.js.Mkt3L10n.FileUploadField": "参照...",
-  "mkt2.0_messages.js.Mkt3L10n.LpTemplateEditor": "変更を保存しています...",
-  "mkt2.0_messages.js.Mkt3L10n.GridFilters": "フィルター",
-  "mkt2.0_messages.js.Mkt3L10n.WizardModal": "キャンセル",
-  "mkt2.0_messages.js.Mkt3L10n.PFA": "運営：",
-  "mkt2.0_messages.js.Mkt3L10n.JigsawAdminMenu": "Data.com フィールド マッピングの編集",
-  "mkt2.0_messages.js.Mkt3L10n.ViewFacebookWorkplaceDetailsModal": "",
-  "mkt2.0_messages.js.Mkt3L10n.ListFilter": "テキスト",
-  "mkt2.0_messages.js.Mkt3L10n.DataFormPanelErrors": "{0} の値が必要です",
-  "mkt2.0_messages.js.Mkt3L10n.AppSatelliteViewport": "名前を付けて保存...",
-  "mkt2.0_messages.js.Mkt3L10n.CanvasMask": "ロード中...",
-  "mkt2.0_messages.js.Mkt3L10n.Note": "注意:",
-  "mkt2.0_messages.js.Mkt3L10n.AppViewport": "タイプとステータスでフィルター"
-}
+Mkt3L10n.ObjectSyncManager = "";
+Mkt3L10n.TreeFilterMenu = "フォーム";
+Mkt3L10n.Dynamics = "URL";
+Mkt3L10n.ListImport = "タブ区切り";
+Mkt3L10n.WebhookAdmin = "削除";
+Mkt3L10n.message = "<p>プログラムサマリのロード中にエラーが発生しました。</p><p>ブラウザを更新してください。</p>";
+Mkt3L10n.UsedByListField = "なし";
+Mkt3L10n.CheckedTreePanel = "{0} ({1}/{2})";
+Mkt3L10n.EmailEditor = "";
+Mkt3L10n.SAP = "デフォルトのリード企業";
+Mkt3L10n.FieldManagement = "";
+Mkt3L10n.MktTree20 = "デフォルトのタイトル";
+Mkt3L10n.EmailPreview = "閉じる";
+Mkt3L10n.WebinarAdminMenu = "更新";
+Mkt3L10n.LocalAssetMenu = "新規ソーシャルボタン";
+Mkt3L10n.InviteParticipants = "このフィールドは必須です";
+Mkt3L10n.AnalyticsMenu = "アナライザ設定";
+Mkt3L10n.CustAdmin = "";
+Mkt3L10n.WebinarAdmin = "";
+Mkt3L10n.FormValidationRule = "更新";
+Mkt3L10n.MarketingEvent = "";
+Mkt3L10n.DescriptorAdmin = "タグの検索";
+Mkt3L10n.FieldManager = "";
+Mkt3L10n.FilterTreePanel = "一致なし";
+Mkt3L10n.AnalyticsReportSetup = "フィルターには承認済みモデルが必要です";
+Mkt3L10n.DataFormPanel = "";
+Mkt3L10n.MktPurlModals = "";
+Mkt3L10n.Crm = "フォーム入力完了";
+Mkt3L10n.WebhookAdminMenu = "カスタム ヘッダの設定";
+Mkt3L10n.Captcha = "未設定";
+Mkt3L10n.CachedTreePanel = "Salesforce";
+Mkt3L10n.JigsawAdmin = "ユーザ名";
+Mkt3L10n.PredictiveLeadScoreModelAdmin = "ロード中...";
+Mkt3L10n.BaseViewPort = "コミュニティ";
+Mkt3L10n.campaigns = "";
+Mkt3L10n.ModalForm = "キャンセル";
+Mkt3L10n.explorer = "管理...";
+Mkt3L10n.LocalAsset = "";
+Mkt3L10n.CustAdminMenu = "Sales Insight";
+Mkt3L10n.analytics = "";
+Mkt3L10n.idleTriggerCampaigns = "";
+Mkt3L10n.CampaignSchedule = "";
+Mkt3L10n.MarketingEventMenu = "新規イベント";
+Mkt3L10n.TreasureChest = "<i>開発者: {0}</i>";
+Mkt3L10n.ReportSettings = "終了日は開始日より後の日付でなければなりません";
+Mkt3L10n.FacebookPublish = "タブ名を入力してください";
+Mkt3L10n.analyzers = "";
+Mkt3L10n.canvas = "ロード中...";
+Mkt3L10n.DataMgr = "";
+Mkt3L10n.FieldManagementMenu = "マージしようとしているフィールドは、非表示フィールドです。 非表示フィールドをマージすることはできません。";
+Mkt3L10n.util = "<i>空</i>";
+Mkt3L10n.DeviceSwitch = "新規ページ テンプレート";
+Mkt3L10n.Preview = "";
+Mkt3L10n.MarketingProgramSettings = "";
+Mkt3L10n.EmailBlast = "<b>テスト ビュー:</b> {0}";
+Mkt3L10n.impExp = "";
+Mkt3L10n.LpEditorSocialShare = "";
+Mkt3L10n.LpTemplate = "承認済み";
+Mkt3L10n.ActivityFilters = "";
+Mkt3L10n.page = "";
+Mkt3L10n.MktPortal = "名前:";
+Mkt3L10n.AdvancedFlowWait = "";
+Mkt3L10n.RowEditor = "保存";
+Mkt3L10n.IsAnonymousCampaigns = "";
+Mkt3L10n.vtypes = "L[.L][.L][.L][...] L は文字で始まり、文字または数字で終わっており、63 文字を超えていません";
+Mkt3L10n.Rsm = "";
+Mkt3L10n.MultiFileUploader = "警告 - 最大サイズ {maxSize} です。 ファイル {fileName} は {fileSize} です";
+Mkt3L10n.CustomTokens = "";
+Mkt3L10n.LayoutCanvas = "保存しています...";
+Mkt3L10n.LpSettings = "";
+Mkt3L10n.nav = "";
+Mkt3L10n.ImageUtils = "";
+Mkt3L10n.DataMgrMenu = "フィールド オーガナイザの削除";
+Mkt3L10n.EmailDetails = "承認済み";
+Mkt3L10n.HomeMenu = "新規作成";
+Mkt3L10n.SysAdminMenu = "Rubiks 新規サブスクリプション";
+Mkt3L10n.CanvasCoverPage = "実行履歴";
+Mkt3L10n.UsedByModal = "使用者";
+Mkt3L10n.ProgramAnalyzerChart = "名前";
+Mkt3L10n.programs = "日時 {0}";
+Mkt3L10n.MktGrids = "計算しています...";
+Mkt3L10n.PredictiveLeadScoreModelAdminMenu = "新規モデル";
+Mkt3L10n.HasLinkedinSocialFill = "{0} 個のフォームをロードしています...";
+Mkt3L10n.Progressions = "{0} 進行状況をロードしています...";
+Mkt3L10n.LayoutDesigner = "自動保存: {0}";
+Mkt3L10n.RSModeler = "";
+Mkt3L10n.CampaignMonitor = "キャンペーンが見つかりません";
+Mkt3L10n.CampaignInspector = "{0} キャンペーン";
+Mkt3L10n.SparkHome = "{text}";
+Mkt3L10n.Format = "テスト グループ";
+Mkt3L10n.ViewDetailsModal = "クライアントシークレット";
+Mkt3L10n.RsmMenu = "承認";
+Mkt3L10n.ImprovedComboBox = "検索しています...";
+Mkt3L10n.CanvasHeader = "保存";
+Mkt3L10n.DescriptorAdminMenu = "非表示";
+Mkt3L10n.LpSettingsMenu = "新規ドメイン別名";
+Mkt3L10n.SocialShare = "適用";
+Mkt3L10n.DynamicContentAdmin = "";
+Mkt3L10n.MktSparkline = "drawRect は実装されていません";
+Mkt3L10n.ViewSlackDetailsModal = "";
+Mkt3L10n.session = "";
+Mkt3L10n.AsyncMenu = "ロード中...";
+Mkt3L10n.LandingPagePreview = "{0} ランディングページ プレビューア";
+Mkt3L10n.LeadAction = "数式フィールドのルールを定義する";
+Mkt3L10n.Field = "{0} は有効な日付ではありません - 日付は {1} のフォーマットでなければなりません";
+Mkt3L10n.AccountAnalyzerChart = "";
+Mkt3L10n.CampaignScheduleRun = "日時が無効です。";
+Mkt3L10n.ComboChooser = "すべて追加 >>";
+Mkt3L10n.FileUploadField = "参照...";
+Mkt3L10n.LpTemplateEditor = "変更を保存しています...";
+Mkt3L10n.GridFilters = "フィルター";
+Mkt3L10n.WizardModal = "キャンセル";
+Mkt3L10n.PFA = "運営：";
+Mkt3L10n.JigsawAdminMenu = "Data.com フィールド マッピングの編集";
+Mkt3L10n.ViewFacebookWorkplaceDetailsModal = "";
+Mkt3L10n.ListFilter = "テキスト";
+Mkt3L10n.DataFormPanelErrors = "{0} の値が必要です";
+Mkt3L10n.AppSatelliteViewport = "名前を付けて保存...";
+Mkt3L10n.CanvasMask = "ロード中...";
+Mkt3L10n.Note = "注意:";
+Mkt3L10n.AppViewport = "タイプとステータスでフィルター";
